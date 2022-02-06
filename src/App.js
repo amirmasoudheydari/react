@@ -1,8 +1,8 @@
-import Auth from './components/Auth.jsx';
+import Home from './components/home';
 
 function App() {
   return (
-    <Auth />
+    <Home />
   );
 }
 
